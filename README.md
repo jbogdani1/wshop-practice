@@ -12,9 +12,9 @@ Tasks:
   - Contact
   - Special layout pages (Ex: Top 50, Special offerts, etc. ... )
   - Responsive web
-- Categories
+  + SEO
+- Categories (Aprox. -1d)
   - Subcategories (optional)
-- SEO
 - Database (RDBMS)
 - Shopping cart
 - Order tracking (optional)

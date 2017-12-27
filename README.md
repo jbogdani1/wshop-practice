@@ -17,6 +17,7 @@ Tasks:
   - Subcategories (optional)
 - Database (RDBMS)
 - Shopping cart
+- Pagination for products
 - Order tracking (optional)
 - Registration / Login system
 - Admin panel (Backend CMS)

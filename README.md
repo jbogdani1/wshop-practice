@@ -1,8 +1,8 @@
 # wshop - practice project
 ^
 - HTML 
-- CSS (Bootstrap)
-- JS (Jquery)
+- CSS (+ Bootstrap)
+- JS (+ Jquery)
 - PHP 
 - SQL
 
@@ -20,14 +20,24 @@ Tasks:
 - Order tracking (optional)
 - Registration / Login system
 - Admin panel (Backend CMS)
-  - Insert product 
-  - Track producs
+  - Edit user data on request (just in case options)
+  - User profile
+    - User data (Name, Adress, etc ... ) - Editable
+    - User past orders list
+  - Track visitors
+    - Unregistered visitors number
+    - Registered visitors number (+ user details - optional)
+    - Registered visitors orders (on user profile)
+  - Website content
+    - Create / View (Read) / Update / Delete - Products
+    - Create / View (Read) / Update / Delete - Categories
+    - Create / View (Read) / Update / Delete - Special pages
   - Track orders
     - Orders list
-  - Track visitors number (registered / unregistered)
-  - 
+    - Order status per order ID and user email
 - Product search engine
+  - Search per category / product name (full name / associations) / tags
 - Payment integration (PP)
 *******************************
-- Product Rating
-- Product Comments
+- Product Rating (for registered users)
+- Product Comments (for registered users)

@@ -37,6 +37,7 @@ Tasks:
     - Order status per order ID and user email
 - Product search engine
   - Search per category / product name (full name / associations) / tags
+  - Search per multiple parameters
 - Payment integration (PP)
 *******************************
 - Product Rating (for registered users)

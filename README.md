@@ -18,7 +18,7 @@ Tasks:
 - Database (RDBMS)
 - Shopping cart
 - Pagination for products
-- Order tracking (optional)
+- Order tracking (status) per order ID and email
 - Registration / Login system
 - Admin panel (Backend CMS)
   - Edit user data on request (just in case options)

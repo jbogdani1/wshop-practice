@@ -14,4 +14,6 @@ Tasks:
 - Admin panel (Backend CMS)
 - Search engine
 - Payment integration (PP)
+*******************************
 - Rating
+- Comments

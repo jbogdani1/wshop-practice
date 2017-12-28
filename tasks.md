@@ -13,12 +13,13 @@ Tasks:
 - Order tracking (status) per order ID and email
 - Registration / Login system
 - Admin panel (Backend CMS)
-  - Edit user data on request (just in case options)
+  - Edit user data on request by admin (just in case options)
   - User profile
     - User data (Name, Adress, etc ... ) - Editable
-    - User past orders list
+    - User past orders list (Visible to that user and admin)
   - Track visitors
     - Unregistered visitors number
+    - Unregistered buyers orders
     - Registered visitors number (+ user details - optional)
     - Registered visitors orders (on user profile)
   - Website content
@@ -33,5 +34,6 @@ Tasks:
   - Search per multiple parameters
 - Payment integration (PP)
 *******************************
-- Product Rating (for registered users)
-- Product Comments (for registered users)
+- Product Rating (for registered users only)
+- Product Comments (for registered users only)
+- Product social networks sharing (as a recomendation)

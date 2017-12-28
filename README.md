@@ -5,3 +5,6 @@
 - JS (+ Jquery)
 - PHP 
 - SQL
+
+- SQL injection protection
+- XSS protection

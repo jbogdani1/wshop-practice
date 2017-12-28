@@ -3,7 +3,13 @@ Tasks:
   - Categories layout
   - Contact
   - Special layout pages (Ex: Top 50, Special offerts, etc. ... )
-  - Responsive web
+  - Admin panel 
+    - User profile 
+    - Shopping cart 
+    - Order tracker
+    - Statistics page (Visitors number, orders..etc...)
+    - Other admin pages
+  + Responsive web
   + SEO
 - Categories (Aprox. -1d)
   - Subcategories (optional)

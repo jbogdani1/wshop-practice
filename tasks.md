@@ -23,11 +23,13 @@ Tasks:
   - User profile
     - User data (Name, Adress, etc ... ) - Editable
     - User past orders list (Visible to that user and admin)
-  - Track visitors
+    - User security history
+  - Track users/customers/visitors
     - Unregistered visitors number
     - Unregistered buyers orders
     - Registered visitors number (+ user details - optional)
     - Registered visitors orders (on user profile)
+    - Track user security history
   - Website content
     - Create / View (Read) / Update / Delete - Products
     - Create / View (Read) / Update / Delete - Categories
